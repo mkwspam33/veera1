@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_veera1_t1</description>
+        <name>sn_veera1_t1</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:20:55</sys_created_on>
+        <sys_id>5251857477323300ca3ab5b2681061eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_veera1_t1</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_security_acl_5251857477323300ca3ab5b2681061eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:20:55</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="veera1">f9014d3477323300ca3ab5b2681061d9</application>
+        <file_path/>
+        <instance_id>evosandbox8080</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_5251857477323300ca3ab5b2681061eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_veera1_t1</description>
+        <name>sn_veera1_t1</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:20:55</sys_created_on>
+        <sys_id>5251857477323300ca3ab5b2681061eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_veera1_t1</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_security_acl_5251857477323300ca3ab5b2681061eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:20:55</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-560913118</payload_hash>
+        <record_name>sn_veera1_t1</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:25:41</sys_created_on>
+        <sys_id>0872c5f477323300ca3ab5b26810610d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c0be967340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:25:41</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>c472c5f473323300335ed5dd910f7e0d</update_guid>
+        <update_guid_history>bd6245f4b63233006d3ed9ad6cbbcc36:-892217804,52518574933233000669142a10d30aed:-1850420800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:26:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2c50df11dd75435688e587f08330a4e9</sys_id>
+        <sys_metadata>5251857477323300ca3ab5b2681061eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_veera1_t1</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_parent display_value="">736285f477323300ca3ab5b2681061c2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_scope_delete display_value="">2bfb783d689c48e1a842f5349855f861</sys_scope_delete>
+        <sys_update_name>sys_security_acl_5251857477323300ca3ab5b2681061eb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_5251857477323300ca3ab5b2681061eb">0872c5f477323300ca3ab5b26810610d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:26:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

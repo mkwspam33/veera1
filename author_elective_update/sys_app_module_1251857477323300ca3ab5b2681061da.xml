@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="t1">5251857477323300ca3ab5b2681061d7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>t1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_veera1_t1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_veera1.t1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:20:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1251857477323300ca3ab5b2681061da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_app_module_1251857477323300ca3ab5b2681061da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:20:55</sys_updated_on>
+        <timeline_page/>
+        <title>t1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="veera1">f9014d3477323300ca3ab5b2681061d9</application>
+        <file_path/>
+        <instance_id>evosandbox8080</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_app_module_1251857477323300ca3ab5b2681061da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="t1">5251857477323300ca3ab5b2681061d7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>t1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_veera1_t1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_veera1.t1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:20:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1251857477323300ca3ab5b2681061da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_app_module_1251857477323300ca3ab5b2681061da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:20:55</sys_updated_on>
+        <timeline_page/>
+        <title>t1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>-1537009976</payload_hash>
+        <record_name>t1s</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:25:41</sys_created_on>
+        <sys_id>0c72c5f477323300ca3ab5b268106105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c0be966d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:25:41</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c872c5f4e6323300cf88f5772b203c05</update_guid>
+        <update_guid_history>f96245f4a6323300dfef22ba3925ca43:1326619654,525185742c3233003c095e3c786c63dc:1235895664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="t1s">a5b2893877323300ca3ab5b2681061c3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:26:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>956c546b42234da79847538f5d290a71</sys_id>
+        <sys_metadata>1251857477323300ca3ab5b2681061da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1s</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_scope_delete display_value="">2bfb783d689c48e1a842f5349855f861</sys_scope_delete>
+        <sys_update_name>sys_app_module_1251857477323300ca3ab5b2681061da</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1251857477323300ca3ab5b2681061da">0c72c5f477323300ca3ab5b268106105</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:26:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

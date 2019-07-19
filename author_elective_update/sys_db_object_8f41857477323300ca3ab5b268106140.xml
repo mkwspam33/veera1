@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>t1</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>sn_veera1_t1</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:20:54</sys_created_on>
+        <sys_id>8f41857477323300ca3ab5b268106140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_db_object_8f41857477323300ca3ab5b268106140</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:20:54</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="sn_veera1.t1_user" name="sn_veera1.t1_user">c251857477323300ca3ab5b26810615d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="veera1">f9014d3477323300ca3ab5b2681061d9</application>
+        <file_path/>
+        <instance_id>evosandbox8080</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_db_object_8f41857477323300ca3ab5b268106140</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>t1</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>sn_veera1_t1</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:20:54</sys_created_on>
+        <sys_id>8f41857477323300ca3ab5b268106140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_db_object_8f41857477323300ca3ab5b268106140</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:20:54</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="sn_veera1.t1_user" name="sn_veera1.t1_user">c251857477323300ca3ab5b26810615d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>]]></payload>
+        <payload_hash>-789258699</payload_hash>
+        <record_name>t1</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:25:40</sys_created_on>
+        <sys_id>376285f477323300ca3ab5b2681061bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c0be9626d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:25:40</sys_updated_on>
+        <type>Table</type>
+        <update_guid>776285f4ab323300e2caf782890852a4</update_guid>
+        <update_guid_history>5a6245f42e32330010c649963fc6dada:-96490457,2651c5748b3233003d5d5bdc3f9b2a4a:-23319013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:26:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>3e28b6be1ac7493cad9fafcb0aa9d510</sys_id>
+        <sys_metadata>8f41857477323300ca3ab5b268106140</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_scope_delete display_value="">2bfb783d689c48e1a842f5349855f861</sys_scope_delete>
+        <sys_update_name>sys_db_object_8f41857477323300ca3ab5b268106140</sys_update_name>
+        <sys_update_version display_value="sys_db_object_8f41857477323300ca3ab5b268106140">376285f477323300ca3ab5b2681061bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:26:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
