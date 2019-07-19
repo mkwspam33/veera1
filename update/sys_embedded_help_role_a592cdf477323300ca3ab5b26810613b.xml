@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_veera1.t2_user" name="sn_veera1.t2_user">2592cdf477323300ca3ab5b268106138</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 20:26:19</sys_created_on>
+        <sys_id>a592cdf477323300ca3ab5b26810613b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2592cdf477323300ca3ab5b268106138</sys_name>
+        <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a592cdf477323300ca3ab5b26810613b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 20:26:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
