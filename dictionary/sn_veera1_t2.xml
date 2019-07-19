@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="t2" max_length="40" name="sn_veera1_t2" type="collection">
-        <element label="cc1" max_length="40" name="cc1" type="string"/>
-        <element label="cc2" max_length="40" name="cc2" type="string"/>
-    </element>
-</database>
