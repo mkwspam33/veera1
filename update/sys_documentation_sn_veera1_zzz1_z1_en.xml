@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="z1" label="Z1" language="en" table="sn_veera1_zzz1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>z1</element>
+            <help/>
+            <hint/>
+            <label>Z1</label>
+            <language>en</language>
+            <name>sn_veera1_zzz1</name>
+            <plural>Z1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-23 14:31:08</sys_created_on>
+            <sys_id>d9a7d80677323300ca3ab5b268106104</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Z1</sys_name>
+            <sys_package display_value="veera1" source="sn_veera1">f9014d3477323300ca3ab5b2681061d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="veera1">f9014d3477323300ca3ab5b2681061d9</sys_scope>
+            <sys_update_name>sys_documentation_sn_veera1_zzz1_z1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-23 14:31:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

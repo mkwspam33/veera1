@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="zzz1" max_length="40" name="sn_veera1_zzz1" type="collection">
+        <element label="Z1" max_length="40" name="z1" type="string"/>
+        <element label="Z2" max_length="40" name="z2" type="string"/>
+    </element>
+</database>
